@@ -1,5 +1,3 @@
-# Post-Surgery-Recovery-Tracker
-“A website that helps both patients and doctors digitalize patient records."
 # 🏥 Post-Surgery Recovery Tracker
 
 An AI-powered healthcare application that helps patients and doctors monitor post-surgery recovery remotely. The system allows patients to log their daily health status while enabling doctors to monitor recovery progress through dashboards, risk prediction models, and wound image analysis.
