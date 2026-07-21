@@ -44,7 +44,8 @@ The **Post-Surgery Recovery Tracker** provides a centralized platform where:
 - Wound Image Analysis
 - Recovery Trend Charts
 - Appointment Management
-
+- Upload Reports and medications
+- Set alerts for daily medications and appointments
 ---
 
 ## 👨‍💼 Admin Module
